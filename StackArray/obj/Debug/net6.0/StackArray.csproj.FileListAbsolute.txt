@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\StackArray\StackArray\bin\Debug\net6.0\StackArray.exe
+C:\Users\Pavani\source\repos\StackArray\StackArray\bin\Debug\net6.0\StackArray.deps.json
+C:\Users\Pavani\source\repos\StackArray\StackArray\bin\Debug\net6.0\StackArray.runtimeconfig.json
+C:\Users\Pavani\source\repos\StackArray\StackArray\bin\Debug\net6.0\StackArray.dll
+C:\Users\Pavani\source\repos\StackArray\StackArray\bin\Debug\net6.0\ref\StackArray.dll
+C:\Users\Pavani\source\repos\StackArray\StackArray\bin\Debug\net6.0\StackArray.pdb
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.dll
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\ref\StackArray.dll
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.pdb
+C:\Users\Pavani\source\repos\StackArray\StackArray\obj\Debug\net6.0\StackArray.genruntimeconfig.cache
